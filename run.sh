@@ -1,0 +1,1 @@
+nohup /usr/local/node/bin/node server.js &
